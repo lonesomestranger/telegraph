@@ -41,6 +41,10 @@ OSINT-утилита для рекурсивного анализа связей
 python main.py
 ```
 
-## 📄 Лицензия
+## Лицензия
 
 Этот проект распространяется под лицензией MIT. Подробности смотрите в файле [LICENSE](LICENSE).
+
+## PS
+
+Special thanks to the creator and founder (his code was rewritten and improved) of the repo [demee3](https://github.com/demee3). During the work on the script, a large number of authors of niche Telegram channels were scared. We apologize for this.
