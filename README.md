@@ -41,6 +41,10 @@ OSINT-утилита для рекурсивного анализа связей
 python main.py
 ```
 
+## ⛰ Codeberg
+
+Код также доступен на [Codeberg](https://codeberg.org/lonesomestranger/telegraph).
+
 ## Лицензия
 
 Этот проект распространяется под лицензией MIT. Подробности смотрите в файле [LICENSE](LICENSE).
